@@ -1,0 +1,53 @@
+23:48:09.094 [main] INFO  testCase.TC_001_doctorsList - $$$ TestCase1 location() Method is started $$$
+23:48:21.215 [main] INFO  testCase.TC_001_doctorsList - $$$ location box is cleared $$$
+23:48:28.278 [main] INFO  testCase.TC_001_doctorsList - $$$ sending the location $$$
+23:48:55.309 [main] ERROR testCase.TC_001_doctorsList - $$$TestCase1 location() Method  gets failed $$$
+23:48:55.499 [main] INFO  testCase.TC_001_doctorsList - *** TestCase1 filters() Method is started***
+23:51:01.560 [main] INFO  testCase.TC_001_doctorsList - $$$ TestCase1 location() Method is started $$$
+23:51:13.648 [main] INFO  testCase.TC_001_doctorsList - $$$ location box is cleared $$$
+23:51:31.848 [main] INFO  testCase.TC_001_doctorsList - $$$ sending the location $$$
+23:51:43.911 [main] INFO  testCase.TC_001_doctorsList - $$$ Clicking the location $$$
+23:51:46.963 [main] INFO  testCase.TC_001_doctorsList - $$$ Clicking the department $$$
+23:51:54.833 [main] INFO  testCase.TC_001_doctorsList - $$$ selecting the department $$$
+23:51:54.833 [main] INFO  testCase.TC_001_doctorsList - $$$ TestCase1 location() Method  is ended $$$
+23:51:55.056 [main] INFO  testCase.TC_001_doctorsList - *** TestCase1 filters() Method is started***
+23:52:05.157 [main] INFO  testCase.TC_001_doctorsList - *** clicking the stories ***
+23:52:05.269 [main] INFO  testCase.TC_001_doctorsList - *** selecting the stories ***
+23:52:05.355 [main] INFO  testCase.TC_001_doctorsList - *** clicking Experience ***
+23:52:05.497 [main] INFO  testCase.TC_001_doctorsList - *** selecting Experience ***
+23:52:10.560 [main] INFO  testCase.TC_001_doctorsList - *** clicking All Filters ***
+23:52:15.612 [main] INFO  testCase.TC_001_doctorsList - *** selecting Fees ***
+23:52:15.636 [main] INFO  testCase.TC_001_doctorsList - *** selecting Availability ***
+23:52:15.656 [main] INFO  testCase.TC_001_doctorsList - *** clicking sortBy ***
+23:52:21.973 [main] INFO  testCase.TC_001_doctorsList - *** selecting sortBy ***
+23:52:21.974 [main] INFO  testCase.TC_001_doctorsList - *** TestCase1 filters() method ended***
+23:52:22.153 [main] INFO  testCase.TC_001_doctorsList - ### TestCase1 docList() method is started ###
+23:52:37.261 [main] INFO  testCase.TC_001_doctorsList - ### Getting the Window Handles ###
+23:52:42.299 [main] INFO  testCase.TC_001_doctorsList - ### Getting the first five doctor details ###
+23:52:42.299 [main] INFO  testCase.TC_001_doctorsList - ### Printing the first five doctor details ###
+23:53:02.491 [main] INFO  testCase.TC_001_doctorsList - ### Getting the Window Handles ###
+23:53:07.533 [main] INFO  testCase.TC_001_doctorsList - ### Getting the first five doctor details ###
+23:53:07.533 [main] INFO  testCase.TC_001_doctorsList - ### Printing the first five doctor details ###
+23:53:27.722 [main] INFO  testCase.TC_001_doctorsList - ### Getting the Window Handles ###
+23:53:32.770 [main] INFO  testCase.TC_001_doctorsList - ### Getting the first five doctor details ###
+23:53:32.770 [main] INFO  testCase.TC_001_doctorsList - ### Printing the first five doctor details ###
+23:53:52.960 [main] INFO  testCase.TC_001_doctorsList - ### Getting the Window Handles ###
+23:53:57.994 [main] INFO  testCase.TC_001_doctorsList - ### Getting the first five doctor details ###
+23:53:57.994 [main] INFO  testCase.TC_001_doctorsList - ### Printing the first five doctor details ###
+23:54:18.162 [main] INFO  testCase.TC_001_doctorsList - ### Getting the Window Handles ###
+23:54:23.201 [main] INFO  testCase.TC_001_doctorsList - ### Getting the first five doctor details ###
+23:54:23.201 [main] INFO  testCase.TC_001_doctorsList - ### Printing the first five doctor details ###
+23:54:28.282 [main] INFO  testCase.TC_001_doctorsList - ### TestCase1 docList() method ended ###
+23:54:28.468 [main] INFO  testCase.TC_001_doctorsList - !!! TestCase1 printSurgery() method gets started !!!
+23:54:35.961 [main] INFO  testCase.TC_001_doctorsList - !!! Clicking surgery option !!!
+23:54:39.366 [main] INFO  testCase.TC_001_doctorsList - !!! Printing surgery List !!!
+23:54:39.366 [main] INFO  testCase.TC_001_doctorsList - !!! TestCase1 printSurgery() method ended !!!
+23:54:39.723 [main] INFO  testCase.TC_001_doctorsList - &&& TestCase1 validMail() method  gets started &&&
+23:54:42.792 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the For-corporation option &&&
+23:55:03.845 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the Health and Wellness option &&&
+23:55:06.927 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the name  &&&
+23:55:06.993 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the organization name  &&&
+23:55:07.078 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the contact number  &&&
+23:55:07.159 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the Wrong mailID  &&&
+23:55:07.340 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the organization size  &&&
+23:55:10.468 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the InterestedIn option  &&&

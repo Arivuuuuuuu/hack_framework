@@ -1,0 +1,16 @@
+15:18:01.995 [main] INFO  testCase.TC_001_doctorsList - !!! TestCase1 printSurgery() method ended !!!
+15:18:02.374 [main] INFO  testCase.TC_001_doctorsList - &&& TestCase1 validMail() method  gets started &&&
+15:18:05.446 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the For-corporation option &&&
+15:18:14.003 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the Health and Wellness option &&&
+15:18:17.081 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the name  &&&
+15:18:17.135 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the organization name  &&&
+15:18:17.194 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the contact number  &&&
+15:18:17.255 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the Wrong mailID  &&&
+15:18:17.369 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the organization size  &&&
+15:18:20.483 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the InterestedIn option  &&&
+15:18:23.486 [main] INFO  testCase.TC_001_doctorsList - &&& Checking whether the submit button is enabled or not  &&&
+15:18:33.569 [main] INFO  testCase.TC_001_doctorsList - &&& Clearing the mailId column &&&
+15:18:36.648 [main] INFO  testCase.TC_001_doctorsList - &&& Sending the correct mailId  &&&
+15:18:36.674 [main] INFO  testCase.TC_001_doctorsList - &&& Clicking the submit button &&&
+15:18:39.680 [main] INFO  testCase.TC_001_doctorsList - &&& Checking whether the Thnak You message is displayed or not  &&&
+15:18:59.733 [main] INFO  testCase.TC_001_doctorsList - &&& TestCase1 validMail() method gets failed &&&
